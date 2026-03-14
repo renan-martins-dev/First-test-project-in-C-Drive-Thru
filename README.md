@@ -1,2 +1,2 @@
-# First-test-project-in-C-Drive-Thru
-My first project created to apply and improve my knowledge in the C programming language.
+# C Exercises and Projects
+My exercises and project in the first programming language I learned.
